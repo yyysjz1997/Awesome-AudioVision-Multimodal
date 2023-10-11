@@ -6,7 +6,7 @@
 
 A curated list of **Audio-Vision Multimodal** with awesome resources (paper, application, data, review, survey, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge. Also, there is a [MindMap](https://github.com/yyysjz1997/Awesome-AudioVision-Multimodal/blob/main/MindMap.pdf)  for all papers, which is more intuitive.
 
-We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. **If want to collaborate or get in touch, my email is [yiyuan.yang@cs.ox.ac.uk](yiyuan.yang@cs.ox.ac.uk).**
+We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. **If want to collaborate or get in touch, my email is yiyuan.yang@cs.ox.ac.uk.**
 
 
 
