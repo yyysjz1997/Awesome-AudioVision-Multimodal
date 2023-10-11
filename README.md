@@ -43,7 +43,7 @@ We will continue to update this list with newest resources. If you found any mis
 	- [Review and survey](#review-and-survey)
 	- [Diffusion model](#diffusion-model)
 	- [Citation](#citation)
-			- [If you find this repository helpful for your work, please kindly cite:](#if-you-find-this-repository-helpful-for-your-work-please-kindly-cite)
+			
 
 
 ## Audio-vision Machine learning problem
@@ -52,7 +52,15 @@ We will continue to update this list with newest resources. If you found any mis
 
 * [ICCV-2017] Look, Listen and Learn
 
+* [CVPR-2018] Seeing voices and hearing faces: Cross-modal biometric matching
+
 * [NeurIPS-2018] Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization
+
+* [CVPR-2019] Deep multimodal clustering for unsupervised  audiovisual  learning
+
+* [ICASSP-2019] Perfect match: Improved cross-modal embeddings for audio-visual synchronisation
+
+* [2020] Self-supervised learning of visual speech features with audiovisual speech enhancement
 
 * [NeurIPS-2020] Learning Representations from Audio-Visual Spatial Alignment
 
@@ -70,6 +78,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * [ICCV-2021] Multimodal Clustering Networks for Self-Supervised Learning From Unlabeled Videos
 
+* [IJCAI-2021] Speech2talking-face: Inferring and driving a face with synchronized audio-visual representation
+  
 * [2021] OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation
 
 * [NeurIPS-2021] VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text
@@ -137,6 +147,8 @@ We will continue to update this list with newest resources. If you found any mis
 * [2020] Learning speech representations from raw audio by joint audiovisual self-supervision
 
 * [ICASSP-2020] Visually Guided Self Supervised Learning of Speech Representations
+
+* [ECCV-2020] Leveraging  acoustic  images  for  effective  self-supervised  audio  representation  learning
 
 #### Audio-vision saliency detection
 
@@ -230,6 +242,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * [2019] Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection
 
+* [ICASSP-2019] Modality attention for end-to-end audio-visual speech recognition
+
 * [CVPR-2020] Discriminative Multi-Modality Speech Recognition
 
 * [ICASSP0-2021] End-to-end audiovisual speech recognition with conformers
@@ -316,8 +330,32 @@ We will continue to update this list with newest resources. If you found any mis
 
 * [ICCV-2023] SynthVSR: Scaling Up Visual Speech Recognition With Synthetic Supervision
 
+* [CVPR-2021] Learning from the master: Distilling cross-modal advanced knowledge for lip reading
+  
+* [AAAI-2022] Crossmodal mutual learning for audio-visual speech recognition and manipulation
+
+* [AAAI-2020] Hearing lips: Improving lip reading by distilling speech recognizers
+
+* [ACMMM-2020] A lip sync expert is all you need for speech to lip generation in the wild
+
+* [ACMMM-2021] Cross-modal selfsupervised learning for lip reading: When contrastive learning meets adversarial training
+
+* [ICASSP-2020] Asr is all you need: Crossmodal distillation for lip reading
+
+* [2021] Sub-word level lip reading with visual attention
+
+* [2019] Improving audio-visual speech recognition performance with crossmodal student-teacher training
+* [ICASSP-2021] End-to-end audio-visual speech recognition with conformers
 
 #### Speech source enhancement/separation
+
+* [IEEE/ACM Trans. Audio, Speech, Lang. Proces-2018] Using visual speech information in masking methods for audio speaker separation
+
+* [Interspeech-2018] DNN driven speaker independent audio-visual mask estimation for speech separation
+
+* [ICASSP-2018] Seeing through noise: Visually driven speaker separation and enhancement
+
+* [ACM Trans on Graphics-2018] Looking  to listen at the cocktail party: A speaker-independent audiovisual model for speech separation
 
 * [Interspeech-2018] Visual Speech Enhancement
 
@@ -327,15 +365,33 @@ We will continue to update this list with newest resources. If you found any mis
 
 * [ICASSP-2018] Seeing Through Noise: Visually Driven Speaker Separation And Enhancement
 
+* [ICASSP-2019] Face landmark-based speaker-independent  audio-visual  speech  enhancement  in  multi-talker  environments
+
+* [IEEE/ACM Trans. Audio, Speech, Lang. Process-2019] Audio-visual deep clustering for speech separation
+
+* [2019] Mixture of inference networks for VAE-based audio-visual speech enhancement
+
 * [GlobalSIP-2019] Visually Assisted Time-Domain Speech Enhancement
 
 * [ICASSP-2019] On Training Targets and Objective Functions for Deep-learning-based Audio-visual Speech Enhancement
 
 * [InterSpeech-2019] Multimodal SpeakerBeam: Single Channel Target Speech Extraction with Audio-Visual Speaker Clues
 
+* [ICASSP-2019] Effects of Lombard reflex on the performance of deep-learning-based audio-visual speech enhancement systems
+
 * [Interspeech-2019] My Lips Are Concealed: Audio-Visual Speech Enhancement Through Obstructions
 
+* [ICASSP-2020] A robust audio-visual speech enhancement model
+
 * [2020] Facefilter: Audio-Visual Speech Separation Using Still Images
+
+* [ICASSP-2020] A visual-pilot deep fusion for target speech separation in multitalker noisy environment
+
+* [ICASSP-2020] Deep audio-visual speech separation with attention mechanism
+
+* [ICASSP-2020] AV(SE)2: Audio-visual squeeze-excite speech enhancement
+
+* [Interspeech-2020] Lite audio-visual speech enhancement
 
 * [ICASSP-2020] Robust Unsupervised Audio-Visual Speech Enhancement Using a Mixture of Variational Autoencoders
 
@@ -407,6 +463,13 @@ We will continue to update this list with newest resources. If you found any mis
 
 * [ICCV-2023] Leveraging Foundation Models for Unsupervised Audio Visual Segmentation
 
+* [2021] Visualvoice: Audio-visual speech separation with crossmodal consistency
+* [2021] A cappella: Audio-visual singing voice separation
+
+* [2020] Facefilter: Audiovisual speech separation using still images
+
+* [2020] Deep variational generative models for audio-visual speech separation
+
 #### Speaker verification (active speaker detection)
 
 * [MTA-2016] Audio-visual Speaker Diarization Using Fisher Linear Semi-discriminant Analysis
@@ -418,6 +481,8 @@ We will continue to update this list with newest resources. If you found any mis
 * [Interspeech-2019] Who Said That?: Audio-visual Speaker Diarisation Of Real-World Meetings
 
 * [ICASSP-2020] Self-Supervised Learning for Audio-visual Speaker Diarization
+
+* [ICASSP-2020] The sound of my voice: Speaker representation loss for target voice separation
 
 * [ICASSP-2021] A Multi-View Approach to Audio-visual Speaker Verification
 
@@ -471,7 +536,11 @@ We will continue to update this list with newest resources. If you found any mis
 
 #### Sound source separation
 
+* [IEEE Signal Process. Lett-2018] Listen and look: Audio-visual matching assisted speech source separation
+
 * [ECCV-2018] Learning to Separate Object Sounds by Watching Unlabeled Video
+
+* [IEEE Signal Processing Letters-2018] Listen  and  look: Audio–visual matching assisted speech source separation
 
 * [ECCV-2018] The Sound of Pixels
 
@@ -484,6 +553,8 @@ We will continue to update this list with newest resources. If you found any mis
 * [ICCV-2019] Co-Separating Sounds of Visual Objects
 
 * [ACCV-2020] Visually Guided Sound Source Separation using Cascaded Opponent Filter Network
+
+* [2020] Conditioned source separation for music instrument performances
 
 * [CVPR-2020] Music Gesture for Visual Sound Separation
 
@@ -518,6 +589,8 @@ We will continue to update this list with newest resources. If you found any mis
 * [NAACL-2018] Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos
 
 * [EMNLP-2018] Contextual Inter-modal Attention for Multi-modal Sentiment Analysis
+
+* [IEEE Transactions on Affective Computing-2019] An  active learning  paradigm  for  online  audio-visual  emotion  recognition
 
 * [ACL-2019] Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model
 
@@ -627,6 +700,12 @@ We will continue to update this list with newest resources. If you found any mis
 
 * [CVPR-2023] CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior
 
+* [2021] One-shot talking face generation from single-speaker audio-visual correlation learning
+
+* [CVPR-2021] Flow-guided one-shot talking face generation with a high-resolution audio-visual dataset
+
+* [NIPS-2019] Face  reconstruction  from voice  using  generative  adversarial  networks
+
 ## Cross-modal perception
 
 #### Cross-modal generation
@@ -641,7 +720,11 @@ We will continue to update this list with newest resources. If you found any mis
 
 	* [IJCV-2019] You Said That?: Synthesising Talking Faces from Audio
 
+    * [AAAI-2019] Talking face generation by adversarially disentangled audio-visual representation
+
 	* [ICCV-2019] Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
+
+	* [IJCAI-2020] Arbitrary  talking  face  generation  via  attentional  audio-visual coherence  learning
 
 	* [IJCV-2020] Realistic Speech-Driven Facial Animation with GANs
 
@@ -688,6 +771,8 @@ We will continue to update this list with newest resources. If you found any mis
 	* [ACM MM-2023] Hierarchical Semantic Perceptual Listener Head Video Generation: A High-performance Pipeline
 
 	* [CVPR-2023] LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook
+  
+	* [IEEE TMM-2022] Audio-driven talking face video generation with dynamic convolution kernels
 
 * Generate gesture
 
@@ -744,6 +829,12 @@ We will continue to update this list with newest resources. If you found any mis
 	* [2022] Learning visual styles from audio-visual associations 
 
 	* [ICCV-2023] Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment
+  
+	* [2021] Speech2video: Cross-modal distillation for speech to video generation
+
+    * [2018] CMCGAN: A uniform framework  for  cross-modal  visual-audio  mutual  generation
+
+    * [IEEE/ACM Transactions on Audio, Speech, and Language Processing-2021] Generating  images  from  spoken  descriptions
 
 ##### Mono sound generation
 
@@ -757,7 +848,7 @@ We will continue to update this list with newest resources. If you found any mis
 
 	* [ACM MM-2018] Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed
 
-	* [2019] Video-Driven Speech Reconstruction using Generative Adversarial Networks
+	* [Interspeech-2019] Video-Driven Speech Reconstruction using Generative Adversarial Networks
 
 	* [Interspeech-2019] Hush-Hush Speak: Speech Reconstruction Using Silent Videos
 
@@ -774,6 +865,8 @@ We will continue to update this list with newest resources. If you found any mis
 	* [ICCV-2023] DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding
 
 	* [ICCV-2023] Let There Be Sound: Reconstructing High Quality Speech from Silent Videos
+
+    * [CVPR-2019] Speech2Face:  Learning  the face behind a voice
 
 * Music
 
@@ -894,6 +987,8 @@ We will continue to update this list with newest resources. If you found any mis
 ##### Sound localization in videos
 
 * [ECCV-2018] Objects that Sound
+  
+* [CVPR-2018] Learning to localize sound source in visual scenes
 
 * [ECCV-2018] Audio-Visual Scene Analysis with Self-Supervised Multisensory Features
 
@@ -997,11 +1092,15 @@ We will continue to update this list with newest resources. If you found any mis
 
 ##### Audio-vision Event Localization
 
+* [CVPR-2018] Weakly  supervised  representation  learning for unsynchronized audio-visual events
+
 * [ECCV-2018] Audio-visual Event Localization in Unconstrained Videos
 
 * [ICASSP-2019] Dual-modality Seq2Seq Network for Audio-visual Event Localization
 
 * [ICCV-2019] Dual Attention Matching for Audio-Visual Event Localization
+
+* [2020] Crossmodal learning  for  audio-visual  speech  event  localization
 
 * [AAAI-2020] Cross-Modal Attention Network for Temporal Inconsistent Audio-Visual Event Localization
 
@@ -1048,6 +1147,8 @@ We will continue to update this list with newest resources. If you found any mis
 * [AAAI-2023] Furnishing Sound Event Detection with Language Model Abilities
 
 * [ICCV-2023] Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer
+
+
 
 ##### Sounding object localization
 
@@ -1224,6 +1325,8 @@ We will continue to update this list with newest resources. If you found any mis
 * SoundNet (sound representation from unlabeled video)
 
 * ACAV100M (large-scale data of high audio-visual)
+
+* SEWA-DB (emotion  and  sentiment  research in the wild)
 
 ## Review and survey
 
