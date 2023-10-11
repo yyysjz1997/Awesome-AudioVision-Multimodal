@@ -8,6 +8,8 @@ A curated list of **Audio-Vision Multimodal** with awesome resources (paper, app
 
 We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
+Also, there is a [MindMap](https://github.com/yyysjz1997/Awesome-AudioVision-Multimodal/blob/main/MindMap.pdf)  for all papers, which is more intuitive.
+
 - [Audio-Vision Multimodal Review (Paper list)](#audio-vision-multimodal-review-paper-list)
 	- [Audio-vision Machine learning problem](#audio-vision-machine-learning-problem)
 			- [Audio-vision representation learning](#audio-vision-representation-learning)
